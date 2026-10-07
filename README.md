@@ -133,6 +133,8 @@ driver.quit()
 
 <img width="1920" height="1020" alt="Screenshot 2026-10-06 145011" src="https://github.com/user-attachments/assets/1a52e9cf-1c3c-457f-b3ac-b8b5ec58022f" />
 
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/1eaae080-0c39-4f6e-95fc-7e31f8f9bbaa" />
+
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-06 205637" src="https://github.com/user-attachments/assets/516df165-4b74-45db-b18d-b17257335a3c" />
 
